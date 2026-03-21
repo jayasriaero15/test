@@ -3,3 +3,5 @@ print("I'm hungry please give something to eat")
 #second comment
 checkout to commitid:wq!
 
+change something to test revert command
+change something to check amend
